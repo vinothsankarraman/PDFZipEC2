@@ -1,0 +1,7 @@
+com\pdftools\webapp\service\PDFtoWordService.class
+com\pdftools\webapp\model\PDFMergeModel.class
+com\pdftools\webapp\controller\PDFtoWordController.class
+com\pdftools\webapp\service\PDFMergeService.class
+com\pdftools\webapp\model\PDFtoWordModel.class
+com\pdftools\webapp\controller\PDFMergeController.class
+com\pdftools\webapp\PdftoolsApplication.class
